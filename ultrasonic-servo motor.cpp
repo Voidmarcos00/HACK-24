@@ -1,4 +1,4 @@
-#include <Servo.h>  /
+#include <Servo.h>  
 
 // Create Servo objects
 Servo servo1;
